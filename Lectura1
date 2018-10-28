@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Seguridad Informatica</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<header id="header" class="container">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="index.html">SEGURIDAD INFORMATICA</a></h1>
+								<span>by HTML5 UP</span>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li class="current"><a href="index.html">inicio</a></li>
+									<li>
+										<a href="#">Lecturas</a>
+										<ul>
+											<li><a href="#">lectura 1</a></li>
+											<li><a href="#">lectura 2</a></li>
+											<li>
+												<a href="#">lectura 3</a>
+												<ul>
+													<li><a href="#">lectura 1</a></li>
+													<li><a href="#">lectura 2</a></li>
+													<li><a href="#">lectura 3</a></li>
+													<li><a href="#">lectura 4</a></li>
+												</ul>
+											</li>
+											<li><a href="#">lectura 5</a></li>
+										</ul>
+									</li>
+									<li><a href="left-sidebar.html">Multimedia</a></li>
+									<li><a href="right-sidebar.html">Actividades</a></li>
+									<li><a href="autores.html">Autores</a></li>
+									</ul>
+								</ul>
+							</nav>
+
+					</header>
+				</div>
+
+			<!-- Main -->
+				<div id="main-wrapper">
+					<div class="container">
+						<div id="content">
+
+							<!-- Content -->
+								<article>
+
+									TIPOS DE SEGURIDAD
+
+									<p>¿Cuántos tipos de seguridad informática existen?
+Debido a que cada vez se dan más delitos en los sistemas informáticos, las medidas de seguridad siguen avanzando, puesto que las compañías necesitan contar con sistemas altamente protegidos. Los hackers suelen realizar sus acciones principales en la red, aunque también hay que tener especial cuidado con el software y el hardware, por este motivo, existe seguridad informática para cada uno de estos tres elementos:
+
+
+Seguridad online
+Seguridad en software
+Seguridad en hardware</p>
+
+
+								</article>
+
+						</div>
+					</div>
+				</div>
+													
+						<div class="row">
+							<div class="col-12">
+								<div id="copyright">
+									<ul class="menu">
+										<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</footer>
+				</div>
+
+			</div>
+
+		<!-- Scripts -->
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
